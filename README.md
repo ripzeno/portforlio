@@ -1,4 +1,4 @@
-#Ishaan S Vanneri — Portfolio Website
+## Ishaan S Vanneri — Portfolio Website
 
 A professional portfolio website built with HTML5 & CSS. Designed to showcase skills, projects, and contact information in a visually distinctive, fully responsive layout.
 
